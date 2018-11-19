@@ -1,0 +1,17 @@
+{
+	"time": "Mon Nov 19 2018 20:37:58 GMT+0100 (Mitteleuropäische Zeit)",
+	"nativePlatformStatus": "3",
+	"bundle": true,
+	"release": false,
+	"changesRequireBuild": true,
+	"projectFileHash": "e39fc16216501e1ea09e680351814272680665452c2b72ee72889d032948662e",
+	"changesRequireBuildTime": "Mon Nov 19 2018 20:37:58 GMT+0100 (Mitteleuropäische Zeit)",
+	"appFilesHashes": {
+		"C:\\Users\\Lenovo G50-45\\Desktop\\2Archiv\\ldsapp-package.json\\app\\fonts\\.gitkeep": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+		"C:\\Users\\Lenovo G50-45\\Desktop\\2Archiv\\ldsapp-package.json\\app\\app.scss": "0416af3b7f7d5632ac9448e7e8fbd075af63525b",
+		"C:\\Users\\Lenovo G50-45\\Desktop\\2Archiv\\ldsapp-package.json\\app\\components\\App.vue": "c31ee5110d2ed988e07dca0ef25b47e2a174f815",
+		"C:\\Users\\Lenovo G50-45\\Desktop\\2Archiv\\ldsapp-package.json\\app\\assets\\images\\NativeScript-Vue.png": "31f09bdba72293198ee2e2a83c4fe5aa5744bc3d",
+		"C:\\Users\\Lenovo G50-45\\Desktop\\2Archiv\\ldsapp-package.json\\app\\main.js": "27ecbca851c0883ac25aeffa43bfd414c1e69a02",
+		"C:\\Users\\Lenovo G50-45\\Desktop\\2Archiv\\ldsapp-package.json\\app\\package.json": "7f60311fab9a33a0485df2b45e21269a4ac46c55"
+	}
+}
